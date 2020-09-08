@@ -1,0 +1,124 @@
+#cabecera {
+    background-color: lightsteelblue;
+}
+
+#cabeceraprincipal {
+    background-color: lightgray;
+    height: auto;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+#h1 {
+    font-size: 15px;
+}
+
+
+#botonera {
+    background-color: lightslategray;
+    font-size: 20px;
+    height: auto;
+    text-align: center;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+  
+#botonera a {
+    color: whitesmoke;
+    font-family: fantasy;
+    font-size: x-large;
+    font-weight: lighter;
+    text-align: center;
+    margin-right: 8px;
+    transition: 1s;
+}
+#botonera a:hover {
+    background-color: rgb(228, 152, 97);
+    border-radius: 10px;
+    font-size: 28px;
+}
+
+#iniciosesion { 
+    font-size: 13px;
+    margin-top: 10px; 
+    font-weight: bold;
+}
+
+.user-input {
+    height: 30px;
+}
+
+
+#info1 {
+    background-color: rgb(245, 198, 198) ;
+    height: auto;
+    padding-top: 5px;
+}
+
+#info2 {
+    background-color: navajowhite;
+    height: auto;
+    padding-top: 5px;
+}
+
+
+
+
+
+#desarrollo1 {
+    background-color: rgb(135, 250, 235);
+    height: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+
+
+
+#noticia1 {
+    background-color: lightpink;
+    height: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+
+
+
+
+
+#pie {
+    background-color: mediumorchid;
+    color: black;
+    
+}
+
+#contacto {
+    background-color: lightsteelblue;
+    height: auto;
+    padding-top: 5px;
+}
+
+
+
+#redes {
+    background-color: lightslategray;
+    height: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    clear: both;
+}
+
+#fb, #ig {
+    height: 30px;
+}
+
+#ateneo {
+    float: left;
+    height: 100px;
+    margin-top: 5px;
+}
+
